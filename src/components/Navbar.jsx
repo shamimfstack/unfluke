@@ -52,7 +52,7 @@ export default function Navbar() {
       <ul className="flex flex-col md:flex-row items-center gap-8">
         { navOptions }
         <li>
-          <button className="bg-[#0D6EFD] px-4 py-1 rounded-md text-white">LOG IN</button>
+          <button className="bg-[#0D6EFD] px-4 py-2 rounded text-white">LOG IN</button>
         </li>
       </ul>
     </nav>
